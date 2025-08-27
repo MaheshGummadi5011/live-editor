@@ -1,0 +1,9 @@
+/* client/src/App.css */
+
+/* --- Custom styles for remote cursors --- */
+.other-selection {
+    opacity: 0.4;
+}
+.other-cursor {
+    width: 2px !important;
+}
